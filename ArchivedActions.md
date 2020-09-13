@@ -20,3 +20,10 @@
 
 > Completed - 13/09/2020
 ---
+### Previous Students Reflections (11/09/2020)
+* Allan has provided a link where we can read comments from previous students about the course, these should give me some insight about what to expect from this year.
+    * After reading through these comments, I can see where these previous students have found difficulties in their ITT year. There is some good advice in here for how to not get overwhelmed with the workload from the university and how to get more comfortable when teaching a class for the first time. This has helped me set some expectations about what my first steps into my school placement might be like! If I ever want to refer back to these comments, [they can be found here](https://github.com/calaldees/teachingWorkshops/blob/master/teacherTraining/_advice_from_past_students.md)
+
+
+> Completed - 13/09/2020
+---
