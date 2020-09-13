@@ -2,8 +2,9 @@
 
 ## New Reflections
 ---
-### Demo my screen capture experience!
+### Demo my screen capture experience! (11/09/2020)
 * Allan has requested a short video showing how I have decided to construct my reflections workflow for this year, this will get me to test out my screen capture skills and give me an idea of what recording a lesson for online learning would be like!
+    * I have done it! You can follow [This link](https://www.youtube.com/watch?v=f0rJ7j4MGhg&t=2s&ab_channel=DanWTeacherTraining) to see a demo of my workflow solution!
 ---
 ### Explore the backlash and confusion about computer science in education and wider society (11/09/2020)
 * Allan has set us some background reading on the confusion about computer science in education and wider society, this sounds intriguing as I do not know much about this! He provided links to some articles that may be of interest:
