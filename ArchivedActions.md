@@ -1,1 +1,16 @@
-This is a test markdown document for pushing to git.
+# Archived/Completed Reflections & Actions
+
+### Workflow Solution (11/09/2020)
+* Allan introduced Markdown files stored on GitHub as a workflow solution, this sounds like a great idea so i'm going to investigate and try to setup my own solution. 
+    * This worked great! The 2 Markdown documents I have setup and linked to my GitHub repository should make it easy for Allan and my colleagues to see my reflections!#
+
+> Completed - 13/09/2020
+---
+
+### Screen Capture (11/09/2020)
+* Allan gave some examples of software that are easy to use to enable us to capture our screens and webcams/microphones. This will be useful for online teaching solutions.
+    * Added the Screencastify extension to Google Chrome that is very simple to use and can upload my screen captures/vlogs straight to youtube! I have also setup a private youtube channel for the teacher training course where I can post videos and link Allan and colleagues to. 
+
+> Completed - 13/09/2020
+
+---
