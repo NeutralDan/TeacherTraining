@@ -1,8 +1,15 @@
 # Active Reflections & Action Points
+## Tasks from sessions
+3 Main takeaway points from induction session 2a:
+* What it means to be a professional and what professionalism means.
+* The importance of "contracting" with your mentor in school so that both parties understand what is expected of the relationship.
+* The role of both the mentor and mentee in the relationship, both work as a partnership and should be equally respectfull and attentive. 
+---
 
 ## New Reflections
 ---
 
+---
 ## Ongoing Reflections
 ---
 ### Explore the backlash and confusion about computer science in education and wider society (11/09/2020)
