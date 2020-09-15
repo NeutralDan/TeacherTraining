@@ -1,13 +1,8 @@
 # Active Reflections & Action Points
-## Tasks from sessions
-3 Main takeaway points from induction session 2a:
-* What it means to be a professional and what professionalism means.
-* The importance of "contracting" with your mentor in school so that both parties understand what is expected of the relationship.
-* The role of both the mentor and mentee in the relationship, both work as a partnership and should be equally respectfull and attentive. 
----
 
 ## New Reflections
 ---
+
 
 ---
 ## Ongoing Reflections
@@ -27,4 +22,5 @@
     * [Internet use reduces study skills in university students](https://www.sciencedaily.com/releases/2020/01/200117085321.htm)
         * This article focuses on the impact that "internet addiction" have had on students mental wellbeing and motivation to study. Is digitising the education system going to have negative impacts if it goes to far? This highlights that the social side of education is perhaps just as important as the academic side.
   > These articles have raised some very interesting questions   and presented some worrying arguments. This should be revisited later in the course to see if any of the points raised here can be addressed. 
+
 ---
