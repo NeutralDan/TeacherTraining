@@ -13,6 +13,6 @@
     * Society expects you to train people to be workers and use technology effectively. - This links to the Rotten STEM article where maybe some of the deeper knowledge is being lost as it does not directly impact society in an economic point of view.
     * As teachers we expect to prepare the students for the future and provide them with the tools they will need in life, specifically within the field of computer science. - I need to understand that I will have some bias as to which areas of computing I will focus my teaching on, but still need to teach the entire curriculum fairly.   
 
-
+* New students are in general, not very technologically competent. They may have expereince using phones and tablets but may not have used a keyboard and mouse ever. Simply logging on to the school computers for the first time may be a challenge. - I will have to be aware of the vast difference in prior knowledge between myself and the students, as well as different subsets of the students themselves!
 
 
