@@ -35,5 +35,10 @@
   * Emotional bias - favouring people that we connect to more or have more in common with.
   * **[Full list available here](https://yourbias.is/)**
   * **[Cognative Bias Codex](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Cognitive_Bias_Codex_-_180%2B_biases%2C_designed_by_John_Manoogian_III_%28jm3%29.jpg/1125px-Cognitive_Bias_Codex_-_180%2B_biases%2C_designed_by_John_Manoogian_III_%28jm3%29.jpg)**
-* 
+* Critical analysis of arguments and research is the key to doing well academically. Reflect on both sides of an argument then say why you agree with one of them and explain it. Just giving one side will not suffice. Refer to **recent** and international journals.
+* Poster presentations should be viewed as a visualsied abstract. Short, succinct but gets the point across without getting bogged down by details. Details can be included alongside visual aids!
+  
+  ### **Critical Research!**
+  ## **Critical Research!**
+  # **Critical Research!**
 
