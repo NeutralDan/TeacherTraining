@@ -22,5 +22,12 @@
     * [Internet use reduces study skills in university students](https://www.sciencedaily.com/releases/2020/01/200117085321.htm)
         * This article focuses on the impact that "internet addiction" have had on students mental wellbeing and motivation to study. Is digitising the education system going to have negative impacts if it goes to far? This highlights that the social side of education is perhaps just as important as the academic side.
   > These articles have raised some very interesting questions   and presented some worrying arguments. This should be revisited later in the course to see if any of the points raised here can be addressed. 
+  > * The Rotten STEM article raises a good point that is academically valid, but the way technology is becoming more prolific is most likely a good thing. Society has become a hybrid of human and technological interaction so technological interaction is becoming more important! (15/09/2020)
 
+---
+## Critical Research (15/09/2020)
+After briefly covering what is going to be expected of us in the upcoming assignments, I have discovered that I will need to improve my research skills from undergraduate level. 
+* Research needs to be done **critically**, taking into consideration both sides of an academic argument (possibly more than 2 sides of an argument). The differing views of the argument need to be compared and contrasted before I reach a decision and I need to fully explain why I decide to agree with a certain view point. 
+
+> Revisit this point during my work on the assignment, and once I believe I have finished it. Is my work taking into account multiple sides of the argument? Is my reasearch up to date and meaningful? Have I considered all the angles?
 ---
