@@ -1,4 +1,4 @@
-# Notes From Lectures (Week 2)
+# Notes From Lectures (Week 2 - How do we teach?)
 
 ### Induction 2a (14/09/2020) 
 * 3 Main takeaway points from induction session 2a:
@@ -15,6 +15,10 @@
 
 * New students are in general, not very technologically competent. They may have expereince using phones and tablets but may not have used a keyboard and mouse ever. Simply logging on to the school computers for the first time may be a challenge. - I will have to be aware of the vast difference in prior knowledge between myself and the students, as well as different subsets of the students themselves!
 * Classical/traditional computing compared to modern computing, what is the difference and how have things changed? - Traditional computing are things like logic gates, binary maths and algorithm design. These fundamental techniques are the underlying foundations to the modern computing ideas like voice activation, AI and data science. when teaching, trying to give examples that the students can draw reference from when teaching the fundamentals may be much more difficult now that the modern computing techniques are much more abstracted.
-* 
-
+* Threshold concepts and Liminal space - Threshold concepts like loops and IF statements require full understanding before they can move on to some of the other curriculum. Liminal space is the students taking time to understand the threshold concepts fully before moving on.
+* A unique mindset is required for computer science teachers - 
+  * We need to have a growth focused mindset (i.e anyone is capable of anything if you try hard enough). 
+  * We also need to encourage the students to find new stratagies and approaches to problems, so that they become better problem solvers. 
+  * Lastly we need to emphasise the importance of feedback, and using high quality constructive feedback to inform the students of how they can improve.
+* When teaching programming, taking an approach in the format: use > modify > create works well. Get them to use some code to understand it, then they can modify part of it to see how it works, then get them to create their own. Also starting with block lanugages then transition to text so they understand fundamental practices before actually writing their own.
 
