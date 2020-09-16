@@ -21,8 +21,9 @@
         * The increase of technology as a resource in schools is perhaps widening the class divide in students, with less economically privileged coming out worse due to not having easy access to the required hardware/software for the course. - Could more funding help solve this problem?
     * [Internet use reduces study skills in university students](https://www.sciencedaily.com/releases/2020/01/200117085321.htm)
         * This article focuses on the impact that "internet addiction" have had on students mental wellbeing and motivation to study. Is digitising the education system going to have negative impacts if it goes to far? This highlights that the social side of education is perhaps just as important as the academic side.
-  > These articles have raised some very interesting questions   and presented some worrying arguments. This should be revisited later in the course to see if any of the points raised here can be addressed. 
-  > * The Rotten STEM article raises a good point that is academically valid, but the way technology is becoming more prolific is most likely a good thing. Society has become a hybrid of human and technological interaction so technological interaction is becoming more important! (15/09/2020)
+ 
+>These articles have raised some very interesting questions   and presented some worrying arguments. This should be revisited later in the course to see if any of the points raised here can be addressed. 
+> * The Rotten STEM article raises a good point that is academically valid, but the way technology is becoming more prolific is most likely a good thing. Society has become a hybrid of human and technological interaction so technological interaction is becoming more important! (15/09/2020)
 
 ---
 ## Critical Research (15/09/2020)

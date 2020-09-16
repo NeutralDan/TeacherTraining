@@ -1,12 +1,5 @@
 # Notes From Lectures (Week 2 - How do we teach?)
 
-### Induction 2a (14/09/2020) 
-* 3 Main takeaway points from induction session 2a:
-  * What it means to be a professional and what professionalism means.
-  * The importance of "contracting" with your mentor in school so that both parties understand what is expected of the relationship.
-  * The role of both the mentor and mentee in the relationship, both work as a partnership and should be equally respectfull and attentive.
----
-
 ### Subject Pedagogy 2 (15/09/2020)
 * We explored how different parties involved in the education system have different view points:
     * Students expect to be able to understand everything and be experts in the field easily. - Setting expectations in the classroom will be important here so that students understand that they are starting at the bottom and will not be creating AAA games at the end of the course.
