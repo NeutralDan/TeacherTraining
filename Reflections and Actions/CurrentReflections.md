@@ -17,3 +17,12 @@ After briefly covering what is going to be expected of us in the upcoming assign
 
 > Revisit this point during my work on the assignment, and once I believe I have finished it. Is my work taking into account multiple sides of the argument? Is my reasearch up to date and meaningful? Have I considered all the angles?
 ---
+
+## Knowledge Audit
+---
+
+There are still some gaps in my knowledge:
+* HTML, ASCII and some binary maths are the key areas I need to improve my knowledge in. 
+
+> Work on these areas of knowledge before I need to teach them!
+---
