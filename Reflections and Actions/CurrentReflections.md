@@ -6,7 +6,6 @@
 There are many different theories on how children learn, I should analyse lessons that I am obvserving to see how these learning theories are put into practice through activities that have been planned for the lessons. 
 
 > Revisit this once I have had some more experience both observing and planning lessons to see if I have put these learning theories into place.
-
 ---
 ## Ongoing Reflections
 ---

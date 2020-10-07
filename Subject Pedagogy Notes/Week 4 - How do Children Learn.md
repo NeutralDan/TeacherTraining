@@ -15,6 +15,16 @@
 ---
 
 ## SP5
-> Need access to the recordings to catch up on what I missed as did not attend this session due to funeral. 
-
+### Learning Theories
+There is a difference in which teaching techniques are supported by science and which are being used in classrooms. Learning styles has been proven to be ineffective yet is still used for example. The same is true of the Multiple Intelligences theory which has been debunked.
+* **Dual Coding theory** has scientific evidence backing it up that it does improve knowledge retention. The idea of the theory is that by using 2 stimuli you improve the processing of the knowledge being taught. We learn best with both audio and visual stimulus. 
+> This could be implemented in lesson planning by having relevant images on the board when discussing topics or by including visual aids with more complicated tasks. 
+* Forgetting some information is a normal part of the learning process, it is going to happen and we should plan around it.
+> This is why recalling information from previous lessons is key to knowledge retention, it reminds the students of the information that they have forgotten. Repetition!!!
+* **Rosenshines Principles of Instruction** - 10 key ideas that should be included in lesson planning to adhere to the scientific principles that have been proven to be effective. 
+> Following these steps will be key to planning effective lessons to begin with. 
+* Frequent Retrieval/Questions/Assessment/Quiz: There are two simple ways to help this, asking for hands up to answer a question, or picking a random student. There are also more technological answers like socrative and other anonymous answering solutions that allow students to answer without the fear of being wrong, but allow the teacher to see who needs assistance understanding the topic. 
+> Issues with anxiety and fears when utilising the random student option but perhaps this helps build the right learning environment so that they gain the confidence to try even if they are incorrect? Anonymous answering solutions seem like the way forward to me. 
+* **Cognative load theory** - Attention is a finite resource and can be depleted quickly.
+> We have to be aware of the limitations of the students minds and not overload them with information that they cannot process easily. Knowledge should be built upon previous knowledge and the students should have their learning scaffolded for more complicated tasks. 
 ---
