@@ -26,5 +26,5 @@ There is a difference in which teaching techniques are supported by science and 
 * Frequent Retrieval/Questions/Assessment/Quiz: There are two simple ways to help this, asking for hands up to answer a question, or picking a random student. There are also more technological answers like socrative and other anonymous answering solutions that allow students to answer without the fear of being wrong, but allow the teacher to see who needs assistance understanding the topic. 
 > Issues with anxiety and fears when utilising the random student option but perhaps this helps build the right learning environment so that they gain the confidence to try even if they are incorrect? Anonymous answering solutions seem like the way forward to me. 
 * **Cognative load theory** - Attention is a finite resource and can be depleted quickly.
-> We have to be aware of the limitations of the students minds and not overload them with information that they cannot process easily. Knowledge should be built upon previous knowledge and the students should have their learning scaffolded for more complicated tasks. 
+> We have to be aware of the limitations of the students minds and not overload them with information that they cannot process easily. Knowledge should be built upon previous knowledge and the students should have their learning scaffolded for more complicated tasks.
 ---

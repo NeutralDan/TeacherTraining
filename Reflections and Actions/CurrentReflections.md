@@ -2,6 +2,11 @@
 
 ## New Reflections
 ---
+## Behaviour Management (09/101202)
+Behaviour managagement is 90% pro-active. Putting this into place in the classroom is going to be difficult but is very important for maintaing control of a classroom.
+
+> How can this be done? Visit this idea during lesson planning to make sure that I have included behaviour management routines into the lesson plan. 
+
 ## Learning Theories (05/10/2020)
 There are many different theories on how children learn, I should analyse lessons that I am obvserving to see how these learning theories are put into practice through activities that have been planned for the lessons. 
 
