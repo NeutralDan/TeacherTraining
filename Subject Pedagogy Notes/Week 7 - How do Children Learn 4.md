@@ -2,7 +2,7 @@
 
 ## R4P
 
-> Poor week for R4P materials. Have been covered in the weekly reflection sheet. 
+> Have been covered in the weekly reflection sheet. 
 ---
 
 ## SP8

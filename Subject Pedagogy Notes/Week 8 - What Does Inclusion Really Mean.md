@@ -7,6 +7,7 @@
 
 ## SP9
 
+> Need to recap recordings and take notes
 
 ---
 

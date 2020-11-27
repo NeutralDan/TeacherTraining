@@ -45,3 +45,41 @@
 >These articles have raised some very interesting questions   and presented some worrying arguments. This should be revisited later in the course to see if any of the points raised here can be addressed. 
 > * The Rotten STEM article raises a good point that is academically valid, but the way technology is becoming more prolific is most likely a good thing. Society has become a hybrid of human and technological interaction so technological interaction is becoming more important! (15/09/2020)
 ---
+
+## Microteach Improvements (22/10/20)
+---
+First experice of microteaching, first half was good with good examples that the students could relate to. Second half was too off task and should have continued to focus on the sequencing by adding a task to demonstrate their understanding of sequencing. The precise instructions stuff should have been for the next lesson or at least the second half of the microteach if it had been and hour. 
+
+> Need to focus more on the lesson objective and add simpler tasks with less room for missinterpretation. The examples I used were good as they had context the students could draw upon but the tasks left too much for the students to do and should have been more focused.
+---
+
+## Behaviour Management (09/10/202)
+---
+Behaviour managagement is 90% pro-active. Putting this into place in the classroom is going to be difficult but is very important for maintaing control of a classroom.
+
+> How can this be done? Visit this idea during lesson planning to make sure that I have included behaviour management routines into the lesson plan. 
+> Setting expectations of classroom behaviour seems to be the main way to get the children to build up a respectful attitude to you as a teacher. Also buliding relationships with the students so that they know that you are going to help them grow makes behaviour control easier. 
+
+> Completed - 27/11/2020
+---
+
+## Critical Research (15/09/2020)
+---
+After briefly covering what is going to be expected of us in the upcoming assignments, I have discovered that I will need to improve my research skills from undergraduate level. 
+* Research needs to be done **critically**, taking into consideration both sides of an academic argument (possibly more than 2 sides of an argument). The differing views of the argument need to be compared and contrasted before I reach a decision and I need to fully explain why I decide to agree with a certain view point. 
+
+> Revisit this point during my work on the assignment, and once I believe I have finished it. Is my work taking into account multiple sides of the argument? Is my reasearch up to date and meaningful? Have I considered all the angles?
+> Taking multiple approaches to the research and discussing the ideas within my formative assessment essay worked well - hopefully the mark reflects this!
+
+> Completed - 27/11/2020
+---
+
+## Knowledge Audit
+---
+
+There are still some gaps in my knowledge:
+* HTML, ASCII and some binary maths are the key areas I need to improve my knowledge in. 
+
+> Work on these areas of knowledge before I need to teach them!
+> Knowledge audit covers these gaps and how I am dealing with them!
+---
