@@ -2,7 +2,7 @@
 
 ## R4P
 
-> Needs Doing
+> Completed and reflection sheet sent. Focus this week on inclusive practice and SEN students.
 ---
 
 ## SP9
