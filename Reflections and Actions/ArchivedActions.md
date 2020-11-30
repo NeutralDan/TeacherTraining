@@ -83,3 +83,15 @@ There are still some gaps in my knowledge:
 > Work on these areas of knowledge before I need to teach them!
 > Knowledge audit covers these gaps and how I am dealing with them!
 ---
+
+## What is Education (18/09/2020)
+---
+We spent the day discussing what education is, what the education system aims to achieve and the different aspects of education in general.
+* Education at a first look focuses on the attainment of knowledge, and then the assessment of that knowledge to ensure retention. However there are more sides to the education system than just the improvement of academia. After the discussions and topics covered today I believe that the social side of education is perhaps equally important to the subject knowledge being taught. The ability to function in a social heirachy, follow rules/directions and work as part of a team and individually are all skills that the big wide world after school has finished rely on. 
+
+> This second side to the education system has definitely changed my outlook on teaching as a profession. The joke that teachers are glorified babysitters is possibly quite accurate, if a little crude and derogatory. Ensuring the social development of the students in school and through mediums such as afterschool clubs warrants more attention than first thought. I should revisit this idea once I have some classroom experience to see if this is evident in teachers behaviour in school. 
+
+> This point coveres the inclusive nature of the classroom. The need to include all students and provide a learning environment for them does warrant some ammount of babysitting to get them to create an effective learning atmosphere. There is obviously more to it than that but the pastoral care side of our school system is as important, if not more so than the education side. 
+
+> Completed - 30/11/2020
+---
